@@ -1,4 +1,4 @@
-base_url = "https://litflix.pages.dev"
+base_url = "https://litflixinfo.pages.dev"
 title = "Litflix by Spinoza Entertainment"
 
 compile_sass = true
